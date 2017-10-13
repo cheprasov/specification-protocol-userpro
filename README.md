@@ -144,7 +144,7 @@ Predefined Constants are:
 
 | Constant | Description | Encoded as |
 |-----------|------------------------------------------------------------|------------|
-| Null | The special NULL value represents a variable with no value | `cnull` |
+| Null | The special NULL value represents a variable with no value | `cnull\n` |
 | NaN | The value for Not a numbers | `cnan\n` |
 | -Infinity | Negative infinity | `c-inf\n` |
 | +Infinity | Positive infinite | `c+inf\n` |
