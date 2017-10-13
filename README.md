@@ -1,4 +1,4 @@
-UNIVERSAL PROTOCOL SPECIFICATION
+SPECIFICATION of UNIVERSAL SERIALIZATION PROTOCOL (USERPRO)
 ===
 The specification describes how clients communicate with some a server using a protocol called **USERPRO** (Universal Serialization Protocol). While the protocol was designed specifically for client-server software projects and microservices.
 
