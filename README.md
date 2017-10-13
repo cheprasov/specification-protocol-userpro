@@ -145,9 +145,9 @@ Predefined Constants are:
 | Constant | Description | Encoded as |
 |-----------|------------------------------------------------------------|------------|
 | Null | The special NULL value represents a variable with no value | `cnull` |
-| NaN | The value for Not a numbers | `cnan` |
-| -Infinity | Negative infinity | `c-inf` |
-| +Infinity | Positive infinite | `c+inf` |
+| NaN | The value for Not a numbers | `cnan\n` |
+| -Infinity | Negative infinity | `c-inf\n` |
+| +Infinity | Positive infinite | `c+inf\n` |
 
 
 ### USERPRO Errors
