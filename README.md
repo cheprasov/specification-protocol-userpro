@@ -119,7 +119,7 @@ The above USERPRO data type encodes a two elements Array consisting of an Array 
 ### USERPRO Maps
 
 Map is a hash table. It has key-value structure. USERPRO Maps are sent using the following format:
-A "**m**" character as the first byte, followed by the number of elements in the map as a decimal number, followed by **LF**. An additional USERPRO two types for every element of the map as key and velue.
+A "**m**" character as the first byte, followed by the number of elements in the map as a decimal number, followed by **LF**. An additional USERPRO two types for every element of the map as key and value.
 
 So an empty map is just the following: "`m0\n`"
 
